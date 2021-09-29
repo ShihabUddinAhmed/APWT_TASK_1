@@ -1,10 +1,10 @@
 @extends('layouts.template')
 
 @section('title')
-    Home
+    Our Teams
 @endsection
 
 @section('content')
 
-    <p>This is product landing page. you can navigate through the topbar.</p>
+    <p>This is Our Teams page. you can find out the team information here.</p>
 @endsection
